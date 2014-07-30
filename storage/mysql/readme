@@ -1,0 +1,5 @@
+1. Install mysql node npm install mysql
+2. Create logic application 
+3. Create helper to make application run 
+4. Create CRUD run with mysql 
+5. Write code that renders the HTML records and forms 
