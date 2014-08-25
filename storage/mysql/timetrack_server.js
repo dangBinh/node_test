@@ -32,7 +32,7 @@ var server = http.createServer(function(req, res) {
 					work.show(db, req, res);
 					break;
 				case '/archive':
-					work.archive(db, req, res);
+                    work.showArchived(db, req, res);
 					break;
 			}
 			break;	
